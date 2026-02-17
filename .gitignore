@@ -1,0 +1,35 @@
+# Compiled binaries
+*.out
+*.exe
+*.o
+*.obj
+*.a
+*.so
+
+# GCC output default
+a.out
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Log files
+*.log
+
+# IDE folders
+.vscode/
+.idea/
+*.code-workspace
+
+# CodeBlocks
+*.layout
+*.depend
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
