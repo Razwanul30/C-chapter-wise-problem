@@ -15,7 +15,6 @@ The main goal of this repository is to strengthen programming fundamentals and i
 - Loops (for, while, do-while)
 - Functions
 - Arrays (1D & 2D)
-- Pointers
 - Strings
 - Sorting and Searching
 - Number-based problems
